@@ -17867,7 +17867,5 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.acts.GoToLayout,
 	cr.system_object.prototype.cnds.OnLayoutStart,
 	cr.plugins_.admob.prototype.acts.ShowBanner,
-	cr.plugins_.admob.prototype.acts.ShowInterstitial,
-	cr.system_object.prototype.cnds.Every,
-	cr.plugins_.admob.prototype.acts.ReloadBanner
+	cr.plugins_.admob.prototype.acts.ShowInterstitial
 ];};
